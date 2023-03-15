@@ -1,0 +1,61 @@
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    font-size: 10px;
+    padding-left: 0%;
+    margin: 1%;
+    
+}
+.box2{
+    margin: 0%;
+}
+.box3{
+    margin: 0%;
+}
+.table{
+    padding: left 0%; 
+}
+.bang{
+    background-image: url(./img/Image\ 1\ \(3\).png);
+    background-size: cover;
+    height: 200px;
+}
+.bangPhai{
+    margin-left: 50%;
+}
+.shop1{
+    color: aliceblue;
+    text-align: center;
+    width: 150px;
+    height: 20px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: rgb(113, 171, 113) ;
+}
+.shop2{
+    color: aliceblue;
+    text-align: center;
+    width: 150px;
+    height: 20px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: rgb(113, 171, 113) ;
+}
+.shop3{
+    color: aliceblue;
+    text-align: center;
+    width: 150px;
+    height: 20px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: rgb(113, 171, 113) ;
+}
+
